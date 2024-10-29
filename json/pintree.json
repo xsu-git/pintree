@@ -2,308 +2,106 @@
   {
     "type": "folder",
     "addDate": 1603872911168,
-    "title": "财经数据新闻",
+    "title": "其他书签",
     "children": [
-          {
-            "type": "link",
-            "addDate": 1663752886986,
-            "title": "金十数据 官方网站 - 一个交易工具！",
-            "icon": "https://logo.clearbit.com/www.jin10.com",
-            "url": "https://www.jin10.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1663752906545,
-            "title": "金色财经_在这里，读懂区块链",
-            "icon": "https://logo.clearbit.com/www.jinse.com",
-            "url": "https://www.jinse.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1645853184245,
-            "title": "律动BlockBeats - 专业的区块链研究机构与资讯平台",
-            "icon": "https://logo.clearbit.com/www.theblockbeats.info",
-            "url": "https://www.theblockbeats.info/"
-          },
-          {
-            "type": "link",
-            "addDate": 1652088438106,
-            "title": "Ahr999指数",
-            "icon": "https://logo.clearbit.com/ahr999mixin.tk",
-            "url": "http://ahr999mixin.tk/"
-          }
-    ],
-  },
-  {
-    "type": "folder",
-    "addDate": 1603872911168,
-    "title": "交易市场",
-    "children": [
-          {
-            "type": "link",
-            "addDate": 1639291458986,
-            "title": "OKEx",
-            "icon": "https://logo.clearbit.com/www.okex.com",
-            "url": "https://www.okex.com/markets/prices"
-          },
-          {
-            "type": "link",
-            "addDate": 1677246292160,
-            "title": "币安",
-            "icon": "https://logo.clearbit.com/www.binance.com",
-            "url": "https://www.binance.com/zh-CN/my/dashboard"
-          },
-          {
-            "type": "link",
-            "addDate": 1639026857735,
-            "title": "CoinMarketCap",
-            "icon": "https://logo.clearbit.com/coinmarketcap.com",
-            "url": "https://coinmarketcap.com/watchlist/"
-          }
-    ]
-  },
-  {
-    "type": "folder",
-    "addDate": 1603872911168,
-    "title": "社交媒体",
-    "children": [
-          {
-            "type": "link",
-            "addDate": 1664342128937,
-            "title": "Search MirrorBeats",
-            "icon": "https://logo.clearbit.com/mirrorbeats.xyz",
-            "url": "https://mirrorbeats.xyz/search?q=%E5%90%8D%E7%89%8C%E7%A9%BA%E6%8A%95"
-          },
-           {
-            "type": "link",
-            "addDate": 1669365538133,
-            "title": "Ask Mirror",
-            "icon": "https://logo.clearbit.com/askmirror.xyz",
-            "url": "https://askmirror.xyz/search?q="
-          },
-          {
-            "type": "link",
-            "addDate": 1697697898957,
-            "title": "Galxe",
-            "icon": "https://logo.clearbit.com/galxe.stevenlei.com",
-            "url": "https://galxe.stevenlei.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1622073940486,
-            "title": "Twitter",
-            "icon": "https://logo.clearbit.com/twitter.com",
-            "url": "https://twitter.com/home"
-          },
-          
-          {
-            "type": "link",
-            "addDate": 1639036106011,
-            "title": "Discord",
-            "icon": "https://logo.clearbit.com/discord.com",
-            "url": "https://discord.com/channels/@me"
-          }
-    ]
-  },
-  {
-    "type": "folder",
-    "addDate": 1603872911168,
-    "title": "NFT",
-    "children": [
-            {
-            "type": "link",
-            "addDate": 1652250809859,
-            "title": "nft工具检测",
-            "icon": "https://logo.clearbit.com/nftgo.io",
-            "url": "https://nftgo.io/zh"
-          }
-          
-    ]
-  },
-  {
-    "type": "folder",
-    "addDate": 1603872911168,
-    "title": "链上工具",
-    "children": [
-            {
-            "type": "link",
-            "addDate": 1652250809859,
-            "title": "nft工具检测",
-            "icon": "https://logo.clearbit.com/nftgo.io",
-            "url": "https://nftgo.io/zh"
-          },
-          {
-            "type": "link",
-            "addDate": 1676083672427,
-            "title": "代币批量归集 - MCT 链上工具",
-            "icon": "https://logo.clearbit.com/mct.xyz",
-            "url": "https://mct.xyz/MoreToOne"
-          },
-          {
-            "type": "link",
-            "addDate": 1648454335912,
-            "title": "ETH 批量生成钱包 - CoinTool",
-            "icon": "https://logo.clearbit.com/cointool.app",
-            "url": "https://cointool.app/createWallet/eth"
-          },
-          {
-            "type": "link",
-            "addDate": 1641371850695,
-            "title": "链节点 - Chainlist",
-            "icon": "https://logo.clearbit.com/chainlist.org",
-            "url": "https://chainlist.org/"
-          },
-          {
-            "type": "link",
-            "addDate": 1641611702561,
-            "title": "CoinBK | 中文币圈网页聚合",
-            "icon": "https://logo.clearbit.com/coinbk.xyz",
-            "url": "https://coinbk.xyz/"
-          }
-
-          
-    ]
-  },
-  {
-    "type": "folder",
-    "addDate": 1603872911168,
-    "title": "智能合约安全",
-    "children": [  
-          {
-            "type": "link",
-            "addDate": 1640929502931,
-            "title": "诈骗校验",
-            "icon": "https://logo.clearbit.com/scamsniper.net",
-            "url": "https://scamsniper.net/"
-          },
-          {
-            "type": "link",
-            "addDate": 1644486381311,
-            "title": "比特鹰火眼-智能合约审计",
-            "icon": "https://logo.clearbit.com/ceye.bitying.cn",
-            "url": "https://ceye.bitying.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1643253115043,
-            "title": "蜜罐检测 - Honeypot Detector for ETH",
-            "icon": "https://logo.clearbit.com/honeypot.is",
-            "url": "https://honeypot.is/ethereum.html?address=0xC9fDf7844185C81e14b01D4cfB871A2C2d717318"
-          }
-          
-    ]
-  },
-  {
-    "type": "folder",
-    "addDate": 1603872911168,
-    "title": "MEME",
-    "children": [  
       {
-            "type": "link",
-            "addDate": 1727412531874,
-            "title": "DEXX-首页",
-            "icon": "https://logo.clearbit.com/www.dexx.ai",
-            "url": "https://www.dexx.ai/"
-          },
-          {
-            "type": "link",
-            "addDate": 1727654595285,
-            "title": "热门 - GMGN.AI Discover faster, Trading in seconds. On-chain at the speed of light. Click to trade.",
-            "icon": "https://logo.clearbit.com/gmgn.ai",
-            "url": "https://gmgn.ai/?chain=sol"
-          }
-    ]
-  },
-  {
-    "type": "folder",
-    "addDate": 1603872911168,
-    "title": "项目数据分析",
-    "children": [  
-          {
-            "type": "link",
-            "addDate": 1702707370302,
-            "title": "实时 Gas Price 报价",
-            "icon": "https://logo.clearbit.com/mct.xyz",
-            "url": "https://mct.xyz/gasnow?mode=arbitrum"
-          },
-          
-          {
-            "type": "link",
-            "addDate": 1703225563652,
-            "title": "合约资金费率、爆仓",
-            "icon": "https://logo.clearbit.com/www.coinglass.com",
-            "url": "https://www.coinglass.com/zh/currencies/1000RATS"
-          },
-        {
-            "type": "link",
-            "addDate": 1651027358463,
-            "title": "IDO日历",
-            "icon": "https://logo.clearbit.com/coinowl.io",
-            "url": "https://coinowl.io/ongoing-ido"
-        },
-        {
-            "type": "link",
-            "addDate": 1693475190525,
-            "title": "TVL查询 - defillama",
-            "icon": "https://logo.clearbit.com/defillama.com",
-            "url": "https://defillama.com/chains"
-          },
-          {
-            "type": "link",
-            "addDate": 1693475250051,
-            "title": "链上数据分析 - dune",
-            "icon": "https://logo.clearbit.com/dune.com",
-            "url": "https://dune.com/browse/dashboards"
-          },
-          {
-            "type": "link",
-            "addDate": 1693475273128,
-            "title": "代币解锁时间",
-            "icon": "https://logo.clearbit.com/vestlab.io",
-            "url": "https://vestlab.io/"
-          },
-          {
-            "type": "link",
-            "addDate": 1693475426502,
-            "title": "IDO日历",
-            "icon": "https://logo.clearbit.com/cryptorank.io",
-            "url": "https://cryptorank.io/upcoming-ico"
-          },
-          {
-            "type": "link",
-            "addDate": 1685341809325,
-            "title": "融资查询",
-            "icon": "https://logo.clearbit.com/www.crunchbase.com",
-            "url": "https://www.crunchbase.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1672649830736,
-            "title": "VC投资查询",
-            "icon": "https://logo.clearbit.com/crypto-fundraising.info",
-            "url": "https://crypto-fundraising.info/deal-flow/"
-          },
-          {
-            "type": "link",
-            "addDate": 1673363541434,
-            "title": "ICO Analytics - 融资查询",
-            "icon": "https://logo.clearbit.com/icoanalytics.org",
-            "url": "https://icoanalytics.org/"
-          },
-          {
-            "type": "link",
-            "addDate": 1685352811925,
-            "title": "融资",
-            "icon": "https://logo.clearbit.com/cryptorank.io",
-            "url": "https://cryptorank.io/funding-rounds"
-          },
-          {
-            "type": "link",
-            "addDate": 1693475414976,
-            "title": "查看投融资信息",
-            "icon": "https://logo.clearbit.com/www.rootdata.com",
-            "url": "https://www.rootdata.com/zh"
-          }
+        "type": "link",
+        "addDate": 1576731417426,
+        "title": "二次元综合店之Mandarake",
+        "icon": "https://logo.clearbit.com/www.rilvtong.com",
+        "url": "http://www.rilvtong.com/viewthread.php?tid=57"
+      },
+      {
+        "type": "link",
+        "addDate": 1576731462131,
+        "title": "日旅通 - 日本旅游攻略",
+        "icon": "https://logo.clearbit.com/www.rilvtong.com",
+        "url": "http://www.rilvtong.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1554781526983,
+        "title": "(1条消息)Fiddler实现手机抓包——小白入门 - 做一个不动声色的大人 - CSDN博客",
+        "icon": "https://logo.clearbit.com/blog.csdn.net",
+        "url": "https://blog.csdn.net/gld824125233/article/details/52588275"
+      },
+      {
+        "type": "link",
+        "addDate": 1678234437844,
+        "title": "Animal ",
+        "icon": "https://logo.clearbit.com/aboutporno.net",
+        "url": "https://aboutporno.net/"
+      },
+      {
+        "type": "link",
+        "addDate": 1685972519251,
+        "title": "创业尝试",
+        "icon": "https://logo.clearbit.com/www.wuxiaworld.com",
+        "url": "https://www.wuxiaworld.com/novel/heavenly-jewel-change/hjc-book-1-chapter-1-01"
+      },
+      {
+        "type": "link",
+        "addDate": 1685972554315,
+        "title": "老外都在哪些网站上看中国网络小说？——精翻网站篇 - 知乎",
+        "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+        "url": "https://zhuanlan.zhihu.com/p/72580899"
+      },
+      {
+        "type": "link",
+        "addDate": 1686036442715,
+        "title": "Genny | Untitled",
+        "icon": "https://logo.clearbit.com/genny.lovo.ai",
+        "url": "https://genny.lovo.ai/project/647ede355d971e002474cbdd?type=VIDEO"
+      },
+      {
+        "type": "link",
+        "addDate": 1686278280402,
+        "title": "文本转语音 – 真实 AI 语音生成器 | Microsoft Azure",
+        "icon": "https://logo.clearbit.com/azure.microsoft.com",
+        "url": "https://azure.microsoft.com/zh-cn/products/cognitive-services/text-to-speech"
+      },
+      {
+        "type": "link",
+        "addDate": 1686278596278,
+        "title": "33搜帧 - 视频帧画面搜索引擎",
+        "icon": "https://logo.clearbit.com/fse.agilestudio.cn",
+        "url": "https://fse.agilestudio.cn/"
+      },
+      {
+        "type": "link",
+        "addDate": 1686279432826,
+        "title": "找台词",
+        "icon": "https://logo.clearbit.com/zhaotaici.cn",
+        "url": "https://zhaotaici.cn/"
+      },
+      {
+        "type": "link",
+        "addDate": 1686279436322,
+        "title": "33台词 - 通过台词找影片素材",
+        "icon": "https://logo.clearbit.com/33.agilestudio.cn",
+        "url": "https://33.agilestudio.cn/"
+      },
+      {
+        "type": "link",
+        "addDate": 1686279490856,
+        "title": "Anime Scene Search Engine - trace.moe",
+        "icon": "https://logo.clearbit.com/trace.moe",
+        "url": "https://trace.moe/"
+      },
+      {
+        "type": "link",
+        "addDate": 1686279594134,
+        "title": "设计师灵感助手|midjourney|stable diffusion|AI art",
+        "icon": "https://logo.clearbit.com/www.aigenprompt.com",
+        "url": "https://www.aigenprompt.com/zh-CN"
+      },
+      {
+        "type": "link",
+        "addDate": 1686367315210,
+        "title": "Azure-Samples/cognitive-services-speech-sdk: Sample code for the Microsoft Cognitive Services Speech SDK",
+        "icon": "https://logo.clearbit.com/github.com",
+        "url": "https://github.com/Azure-Samples/cognitive-services-speech-sdk"
+      }
     ]
   }
 ]
