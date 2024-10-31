@@ -7,28 +7,28 @@
           {
             "type": "link",
             "addDate": 1663752886986,
-            "title": "金十数据 官方网站 - 一个交易工具！",
+            "title": "金十数据",
             "icon": "https://logo.clearbit.com/www.jin10.com",
             "url": "https://www.jin10.com/"
           },
           {
             "type": "link",
             "addDate": 1663752906545,
-            "title": "金色财经_在这里，读懂区块链",
+            "title": "金色财经",
             "icon": "https://logo.clearbit.com/www.jinse.com",
             "url": "https://www.jinse.com/"
           },
           {
             "type": "link",
             "addDate": 1645853184245,
-            "title": "律动BlockBeats - 专业的区块链研究机构与资讯平台",
+            "title": "律动BlockBeats",
             "icon": "https://logo.clearbit.com/www.theblockbeats.info",
             "url": "https://www.theblockbeats.info/"
           },
           {
             "type": "link",
             "addDate": 1714878435833,
-            "title": "Foresight Go",
+            "title": "远见新闻ForesightNews",
             "icon": "https://logo.clearbit.com/foresightnews.pro",
             "url": "https://foresightnews.pro/"
           }
@@ -42,7 +42,7 @@
           {
             "type": "link",
             "addDate": 1639291458986,
-            "title": "Okex",
+            "title": "欧意",
             "icon": "https://logo.clearbit.com/www.okex.com",
             "url": "https://www.okex.com/markets/prices"
           },
@@ -52,6 +52,13 @@
             "title": "币安",
             "icon": "https://logo.clearbit.com/www.binance.com",
             "url": "https://www.binance.com/zh-CN/my/dashboard"
+          },
+          {
+            "type": "link",
+            "addDate": 1677246292160,
+            "title": "Bitget",
+            "icon": "https://logo.clearbit.com/www.bitget.com",
+            "url": "https://www.bitget.com/zh-CN/"
           },
           {
             "type": "link",
@@ -67,26 +74,19 @@
     "addDate": 1603872911168,
     "title": "社交媒体",
     "children": [
-          {
-            "type": "link",
-            "addDate": 1664342128937,
-            "title": "Search MirrorBeats",
-            "icon": "https://logo.clearbit.com/mirrorbeats.xyz",
-            "url": "https://mirrorbeats.xyz/search?q=%E5%90%8D%E7%89%8C%E7%A9%BA%E6%8A%95"
-          },
            {
             "type": "link",
             "addDate": 1669365538133,
             "title": "Ask Mirror",
             "icon": "https://logo.clearbit.com/askmirror.xyz",
-            "url": "https://askmirror.xyz/search?q="
+            "url": "https://askmirror.sepana.io/"
           },
           {
             "type": "link",
             "addDate": 1697697898957,
-            "title": "Galxe",
-            "icon": "https://logo.clearbit.com/galxe.stevenlei.com",
-            "url": "https://galxe.stevenlei.com/"
+            "title": "银河Galxe",
+            "icon": "https://logo.clearbit.com/app.galxe.com",
+            "url": "https://app.galxe.com/quest/explore/all"
           },
           {
             "type": "link",
@@ -113,9 +113,16 @@
             {
             "type": "link",
             "addDate": 1652250809859,
-            "title": "nft工具检测",
+            "title": "nftgo分析平台",
             "icon": "https://logo.clearbit.com/nftgo.io",
             "url": "https://nftgo.io/zh"
+          },
+          {
+            "type": "link",
+            "addDate": 1652250809859,
+            "title": "opensea",
+            "icon": "https://logo.clearbit.com/opensea.io",
+            "url": "https://opensea.io/"
           }
           
     ]
@@ -128,21 +135,21 @@
           {
             "type": "link",
             "addDate": 1676083672427,
-            "title": "代币批量归集 - MCT 链上工具",
+            "title": "MCT",
             "icon": "https://logo.clearbit.com/mct.xyz",
-            "url": "https://mct.xyz/MoreToOne"
+            "url": "https://mct.xyz"
           },
           {
             "type": "link",
             "addDate": 1648454335912,
-            "title": "ETH 批量生成钱包 - CoinTool",
+            "title": "CoinTool",
             "icon": "https://logo.clearbit.com/cointool.app",
-            "url": "https://cointool.app/createWallet/eth"
+            "url": "https://cointool.app"
           },
           {
             "type": "link",
             "addDate": 1641371850695,
-            "title": "链节点 - Chainlist",
+            "title": "Chainlist",
             "icon": "https://logo.clearbit.com/chainlist.org",
             "url": "https://chainlist.org/"
           },
@@ -165,7 +172,7 @@
           {
             "type": "link",
             "addDate": 1640929502931,
-            "title": "诈骗校验",
+            "title": "scamsniper诈骗校验",
             "icon": "https://logo.clearbit.com/scamsniper.net",
             "url": "https://scamsniper.net/"
           },
@@ -179,9 +186,9 @@
           {
             "type": "link",
             "addDate": 1643253115043,
-            "title": "蜜罐检测 - Honeypot Detector for ETH",
+            "title": "honeypot蜜罐检测",
             "icon": "https://logo.clearbit.com/honeypot.is",
-            "url": "https://honeypot.is/ethereum.html?address=0xC9fDf7844185C81e14b01D4cfB871A2C2d717318"
+            "url": "https://honeypot.is/ethereum.html"
           }
           
     ]
@@ -194,14 +201,14 @@
       {
             "type": "link",
             "addDate": 1727412531874,
-            "title": "DEXX-首页",
+            "title": "DEXX",
             "icon": "https://logo.clearbit.com/www.dexx.ai",
             "url": "https://www.dexx.ai/"
           },
           {
             "type": "link",
             "addDate": 1727654595285,
-            "title": "热门 - GMGN.AI Discover faster, Trading in seconds. On-chain at the speed of light. Click to trade.",
+            "title": "GMGN.AI",
             "icon": "https://logo.clearbit.com/gmgn.ai",
             "url": "https://gmgn.ai/?chain=sol"
           }
@@ -232,15 +239,8 @@
             "addDate": 1703225563652,
             "title": "合约资金费率、爆仓",
             "icon": "https://logo.clearbit.com/www.coinglass.com",
-            "url": "https://www.coinglass.com/zh/currencies/1000RATS"
+            "url": "https://www.coinglass.com/zh/currencies/BTC"
           },
-        {
-            "type": "link",
-            "addDate": 1651027358463,
-            "title": "IDO日历",
-            "icon": "https://logo.clearbit.com/coinowl.io",
-            "url": "https://coinowl.io/ongoing-ido"
-        },
         {
             "type": "link",
             "addDate": 1693475190525,
@@ -300,7 +300,7 @@
           {
             "type": "link",
             "addDate": 1693475414976,
-            "title": "查看投融资信息",
+            "title": "项目融资分析",
             "icon": "https://logo.clearbit.com/www.rootdata.com",
             "url": "https://www.rootdata.com/zh"
           }
@@ -328,9 +328,9 @@
           {
             "type": "link",
             "addDate": 1689588590367,
-            "title": "如何交易上升三角形图表模式 | 交易斧",
+            "title": "图表学习基础",
             "icon": "https://logo.clearbit.com/tradingaxe.com",
-            "url": "https://tradingaxe.com/learn/how-to-trade-ascending-triangle-chart-pattern"
+            "url": "https://tradingaxe.com/learn"
           }
     ]
   },
@@ -342,7 +342,7 @@
           {
             "type": "link",
             "addDate": 1691028883773,
-            "title": "手把手教你如何无风险出金（上）",
+            "title": "无风险出金",
             "icon": "https://logo.clearbit.com/superwong.notion.site",
             "url": "https://superwong.notion.site/superwong/7eccd869662b4a629740cefd53e538b6"
           }
