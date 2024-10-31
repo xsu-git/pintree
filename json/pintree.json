@@ -37,12 +37,12 @@
   {
     "type": "folder",
     "addDate": 1603872911168,
-    "title": "交易市场",
+    "title": "代币行情",
     "children": [
           {
             "type": "link",
             "addDate": 1639291458986,
-            "title": "OKEx",
+            "title": "Okex",
             "icon": "https://logo.clearbit.com/www.okex.com",
             "url": "https://www.okex.com/markets/prices"
           },
@@ -125,13 +125,6 @@
     "addDate": 1603872911168,
     "title": "链上工具",
     "children": [
-            {
-            "type": "link",
-            "addDate": 1652250809859,
-            "title": "nft工具检测",
-            "icon": "https://logo.clearbit.com/nftgo.io",
-            "url": "https://nftgo.io/zh"
-          },
           {
             "type": "link",
             "addDate": 1676083672427,
@@ -304,6 +297,48 @@
             "icon": "https://logo.clearbit.com/www.rootdata.com",
             "url": "https://www.rootdata.com/zh"
           }
+    ]
+  },
+  {
+    "type": "folder",
+    "addDate": 1603872911168,
+    "title": "图标技术分析",
+    "children": [
+          {
+            "type": "link",
+            "addDate": 1692326298059,
+            "title": "tradingview",
+            "icon": "https://logo.clearbit.com/cn.tradingview.com",
+            "url": "https://cn.tradingview.com/chart/bWxoPREs/?symbol=BINANCE%3ABTCUSDT"
+          },
+          {
+            "type": "link",
+            "addDate": 1666885565642,
+            "title": "胡子观币社区官方主页",
+            "icon": "https://logo.clearbit.com/huziguanbi.com",
+            "url": "https://huziguanbi.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1689588590367,
+            "title": "如何交易上升三角形图表模式 | 交易斧",
+            "icon": "https://logo.clearbit.com/tradingaxe.com",
+            "url": "https://tradingaxe.com/learn/how-to-trade-ascending-triangle-chart-pattern"
+          }
+    ]
+  },
+  {
+    "type": "folder",
+    "addDate": 1603872911168,
+    "title": "出入金",
+    "children": [
+          {
+            "type": "link",
+            "addDate": 1691028883773,
+            "title": "手把手教你如何无风险出金（上）",
+            "icon": "https://logo.clearbit.com/superwong.notion.site",
+            "url": "https://superwong.notion.site/superwong/7eccd869662b4a629740cefd53e538b6"
+          },
     ]
   }
 ]
